@@ -31,6 +31,6 @@ Frontend       React · JavaScript · TypeScript · HTML · CSS
 
 Backend        Node.js · Express
 
-Database       MongoDB
+Database       MongoDB Postgresql
 
 Tools          Git · GitHub · VS Code
