@@ -9,7 +9,7 @@
 <br><br>
 
 <a href="https://github.com/MurariJha">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F2F2F2" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
@@ -265,15 +265,15 @@ Salon booking, POS, inventory, staff and customer management.
 <p align="center">
 
 <a href="https://github.com/MurariJha/Salon-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-App&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32" alt="Salon App"/>
+<img src="./profile/pin-salon-app.svg" width="31%" alt="Salon App"/>
 </a>
 
 <a href="https://github.com/MurariJha/Salon-management-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-management-app&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32" alt="Salon Management App"/>
+<img src="./profile/pin-salon-management.svg" width="31%" alt="Salon Management App"/>
 </a>
 
 <a href="https://github.com/MurariJha/Salon-Manager-Pro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-Manager-Pro&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32" alt="Salon Manager Pro"/>
+<img src="./profile/pin-salon-manager-pro.svg" width="31%" alt="Salon Manager Pro"/>
 </a>
 
 </p>
@@ -288,17 +288,9 @@ Salon booking, POS, inventory, staff and customer management.
 
 <p align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=MurariJha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=E08A32&icon_color=E08A32&text_color=F2F2F2&rank_icon=github&custom_title=Murari%20Jha%20GitHub%20Statistics"
-width="49%"
-alt="Murari Jha GitHub Statistics"
-/>
+<img src="./profile/stats.svg" width="49%" alt="Murari Jha GitHub Statistics"/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurariJha&layout=compact&langs_count=10&hide_border=true&bg_color=0D0D0D&title_color=E08A32&text_color=F2F2F2&custom_title=Most%20Used%20Languages"
-width="49%"
-alt="Most Used Languages"
-/>
+<img src="./profile/top-langs.svg" width="49%" alt="Murari Jha Most Used Languages"/>
 
 </p>
 
@@ -306,11 +298,9 @@ alt="Most Used Languages"
 
 <p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=MurariJha&hide_border=true&background=0D0D0D&ring=E08A32&fire=E08A32&currStreakLabel=E08A32&sideLabels=F2F2F2&dates=777777&currStreakNum=F2F2F2&sideNums=F2F2F2&stroke=E08A32"
-width="75%"
-alt="GitHub Contribution Streak"
-/>
+<img src="./profile/stats-summary.svg" width="49%" alt="GitHub Statistics Summary"/>
+
+<img src="./profile/commit-summary.svg" width="49%" alt="GitHub Commit Summary"/>
 
 </p>
 
@@ -318,17 +308,13 @@ alt="GitHub Contribution Streak"
 
 <div align="center">
 
-## <img src="https://img.icons8.com/ios-filled/50/E08A32/activity-history.png" width="24"/> GitHub Contribution Activity
+## <img src="https://img.icons8.com/ios-filled/50/E08A32/activity-history.png" width="24"/> Contribution Activity
 
 </div>
 
 <p align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=MurariJha&bg_color=0D0D0D&color=E08A32&line=E08A32&point=FFFFFF&area=true&hide_border=true&custom_title=Murari%20Jha%20Contribution%20Activity"
-width="100%"
-alt="GitHub Contribution Activity"
-/>
+<img src="./profile/contribution-activity.svg" width="100%" alt="Murari Jha Contribution Activity"/>
 
 </p>
 
@@ -336,33 +322,21 @@ alt="GitHub Contribution Activity"
 
 <div align="center">
 
-## <img src="https://img.icons8.com/ios-filled/50/E08A32/github.png" width="24"/> GitHub Contribution Overview
+## <img src="https://img.icons8.com/ios-filled/50/E08A32/calendar.png" width="24"/> Development Overview
 
 </div>
 
 <p align="center">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurariJha&theme=github_dark"
-width="100%"
-alt="GitHub Profile Details"
-/>
+<img src="./profile/profile-details.svg" width="100%" alt="GitHub Profile Details"/>
 
 </p>
 
 <p align="center">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MurariJha&theme=github_dark"
-width="49%"
-alt="Repositories Per Language"
-/>
+<img src="./profile/productive-time.svg" width="49%" alt="Productive Coding Time"/>
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MurariJha&theme=github_dark"
-width="49%"
-alt="Most Commit Language"
-/>
+<img src="./profile/most-commit-language.svg" width="49%" alt="Most Commit Language"/>
 
 </p>
 
@@ -374,39 +348,11 @@ alt="Most Commit Language"
 
 </div>
 
-<p align="center">
-
-<img
-src="./dist/github-snake-dark.svg"
-width="100%"
-alt="GitHub Contribution Snake"
-/>
-
-</p>
-
----
-
-<div align="center">
-
-## <img src="https://img.icons8.com/ios-filled/50/E08A32/calendar.png" width="24"/> Development Activity
-
-</div>
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MurariJha&theme=github_dark&utcOffset=5.5"
-width="49%"
-alt="Productive Time"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MurariJha&theme=github_dark"
-width="49%"
-alt="GitHub Statistics Summary"
-/>
-
-</p>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
+<img src="./dist/github-snake.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
+</picture>
 
 ---
 
@@ -484,10 +430,6 @@ REST APIs • Authentication • Integrations • Webhooks
 
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=E08A32&height=120&section=footer&animation=fadeIn"
-width="100%"
-alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E08A32&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
 
 </div>
