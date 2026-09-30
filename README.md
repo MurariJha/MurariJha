@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MurariJha/MurariJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Murari Jha
 
-Here are some ideas to get you started:
+### Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building practical web applications with clean code and simple interfaces.
+
+<br>
+
+[ GitHub ](https://github.com/MurariJha)
+
+</div>
+
+---
+
+## About
+
+I'm a developer interested in building useful web applications,
+learning new technologies, and improving the way I write and structure code.
+
+I enjoy working on projects where I can turn an idea into something
+people can actually use.
+
+---
+
+## What I work with
+
+```text
+Frontend       React · JavaScript · TypeScript · HTML · CSS
+
+Backend        Node.js · Express
+
+Database       MongoDB
+
+Tools          Git · GitHub · VS Code
