@@ -1,26 +1,48 @@
-
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=220&section=header&text=MURARI%20JHA&fontSize=58&fontColor=F2F2F2&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20BUILDER%20%7C%20AUTOMATION&descAlignY=62&descSize=14&descColor=E08A32&animation=fadeIn" width="100%" alt="Murari Jha Profile Header"/>
+<!-- ===================================================== -->
+
+<!-- ANIMATED HERO -->
+
+<!-- ===================================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=230&section=header&text=MURARI%20JHA&fontSize=58&fontColor=F2F2F2&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20BUILDER%20%7C%20AUTOMATION&descAlignY=63&descSize=14&descColor=E08A32&animation=fadeIn" width="100%" alt="Murari Jha"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=E08A32&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+Business+Software;ERP+%7C+CRM+%7C+HRMS+%7C+SaaS;APIs+%7C+Automation+%7C+Integrations;Turning+Business+Problems+Into+Software;Designing+Scalable+Digital+Systems" alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=E08A32&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Business+Software;ERP+%7C+CRM+%7C+HRMS+%7C+SaaS;APIs+%7C+Automation+%7C+Integrations;Turning+Business+Problems+Into+Software;Designing+Scalable+Digital+Systems" alt="Typing Animation"/>
 
 <br><br>
 
-<a href="https://github.com/MurariJha">
+<!-- ===================================================== -->
+
+<!-- SOCIAL LINKS -->
+
+<!-- ===================================================== -->
+
+<a href="https://github.com/MurariJha" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F2F2F2" alt="GitHub"/>
 </a>
-<a href="https://github.com/MurariJha?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-111111?style=for-the-badge&logo=github&logoColor=E08A32" alt="Repositories"/>
+
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=E08A32" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=MurariJha&style=for-the-badge&color=E08A32&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<a href="YOUR_PORTFOLIO_URL" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=E08A32" alt="Portfolio"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=E08A32" alt="Email"/>
+</a>
 
 <br><br>
 
-**Building practical, scalable software for real-world business problems.**
+<img src="https://komarev.com/ghpvc/?username=MurariJha&style=for-the-badge&color=E08A32&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br><br>
+
+<b>Building practical, scalable software for real-world business problems.</b>
 
 </div>
 
@@ -40,7 +62,9 @@ Engineering : Frontend / Backend / Database / APIs
 Interests   : Integrations / Architecture / Automation
 ```
 
-I develop business-oriented software that connects people, processes, data, and systems. My work covers the software lifecycle, from understanding requirements and designing databases to building user interfaces, developing APIs, integrating external services, and deploying applications.
+I develop business-oriented software that connects people, processes, data, and systems.
+
+My work covers the complete software lifecycle — from understanding requirements and designing databases to building interfaces, developing APIs, integrating external services, automating workflows, and deploying applications.
 
 ---
 
@@ -51,6 +75,7 @@ I develop business-oriented software that connects people, processes, data, and 
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <h3>
@@ -58,15 +83,16 @@ I develop business-oriented software that connects people, processes, data, and 
 &nbsp; Enterprise Software
 </h3>
 
-- ERP Systems
-- HRMS Platforms
-- Business Management
-- Internal Tools
-- Operations Dashboards
-- Reporting Systems
-- Role-Based Applications
+* ERP Systems
+* HRMS Platforms
+* Business Management
+* Internal Tools
+* Operations Dashboards
+* Reporting Systems
+* Role-Based Applications
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3>
@@ -74,18 +100,20 @@ I develop business-oriented software that connects people, processes, data, and 
 &nbsp; SaaS & Platforms
 </h3>
 
-- Multi-user Applications
-- SaaS Platforms
-- Workflow Systems
-- Admin Panels
-- API-driven Platforms
-- Multi-role Applications
-- Business Portals
+* Multi-user Applications
+* SaaS Platforms
+* Workflow Systems
+* Admin Panels
+* API-driven Platforms
+* Multi-role Applications
+* Business Portals
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 <h3>
@@ -93,15 +121,16 @@ I develop business-oriented software that connects people, processes, data, and 
 &nbsp; CRM & Automation
 </h3>
 
-- Lead Management
-- Lead Assignment
-- Advertising Lead Integration
-- Automated Replies
-- Customer Follow-ups
-- Sales Workflows
-- Notifications
+* Lead Management
+* Lead Assignment
+* Advertising Lead Integration
+* Automated Replies
+* Customer Follow-ups
+* Sales Workflows
+* Notifications
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3>
@@ -109,18 +138,20 @@ I develop business-oriented software that connects people, processes, data, and 
 &nbsp; Booking Systems
 </h3>
 
-- Transport Booking
-- Truck Booking
-- Tour & Travel
-- Appointment Systems
-- Reservation Platforms
-- Driver Management
-- Customer Management
+* Transport Booking
+* Truck Booking
+* Tour & Travel
+* Appointment Systems
+* Reservation Platforms
+* Driver Management
+* Customer Management
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 <h3>
@@ -128,15 +159,16 @@ I develop business-oriented software that connects people, processes, data, and 
 &nbsp; Pharma & Healthcare
 </h3>
 
-- Pharmaceutical Systems
-- Pharma Retail
-- Inventory Management
-- Order Management
-- Product Management
-- Business Operations
-- Reports
+* Pharmaceutical Systems
+* Pharma Retail
+* Inventory Management
+* Order Management
+* Product Management
+* Business Operations
+* Reports
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3>
@@ -144,15 +176,16 @@ I develop business-oriented software that connects people, processes, data, and 
 &nbsp; Communication
 </h3>
 
-- WhatsApp API
-- Messaging Platforms
-- Webhooks
-- Notifications
-- Third-party APIs
-- Customer Communication
-- Process Automation
+* WhatsApp API
+* Messaging Platforms
+* Webhooks
+* Notifications
+* Third-party APIs
+* Customer Communication
+* Process Automation
 
 </td>
+
 </tr>
 </table>
 
@@ -167,31 +200,31 @@ I develop business-oriented software that connects people, processes, data, and 
 
 <h3>Frontend Development</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind&theme=dark&perline=8" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind&theme=dark&perline=8" alt="Frontend Technologies"/>
 
 <br><br>
 
 <h3>Backend Development</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel&theme=dark&perline=8" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel&theme=dark&perline=8" alt="Backend Technologies"/>
 
 <br><br>
 
 <h3>Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark&perline=8" alt="Database technologies"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark&perline=8" alt="Database Technologies"/>
 
 <br><br>
 
 <h3>DevOps & Infrastructure</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vercel&theme=dark&perline=8" alt="DevOps technologies"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vercel&theme=dark&perline=8" alt="DevOps Technologies"/>
 
 <br><br>
 
 <h3>Developer Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,npm,pnpm&theme=dark&perline=8" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,pnpm&theme=dark&perline=8" alt="Developer Tools"/>
 
 </div>
 
@@ -202,15 +235,15 @@ I develop business-oriented software that connects people, processes, data, and 
 &nbsp; CORE ENGINEERING STACK
 </h2>
 
-| Layer | Technologies |
-|---|---|
-| Frontend | React, Next.js, JavaScript, TypeScript, HTML, CSS |
-| Backend | Node.js, Express, NestJS, PHP, Laravel |
-| Database | PostgreSQL, MySQL, MongoDB, Redis |
-| Architecture | REST APIs, Authentication, RBAC, MVC |
-| Integration | Webhooks, Third-party APIs, Messaging APIs |
-| Deployment | Docker, Linux, Nginx, Vercel |
-| Development | Git, GitHub, VS Code, Postman, pnpm |
+| Layer        | Technologies                                           |
+| ------------ | ------------------------------------------------------ |
+| Frontend     | React · Next.js · JavaScript · TypeScript · HTML · CSS |
+| Backend      | Node.js · Express · NestJS · PHP · Laravel             |
+| Database     | PostgreSQL · MySQL · MongoDB · Redis                   |
+| Architecture | REST APIs · Authentication · RBAC · MVC                |
+| Integration  | Webhooks · Third-party APIs · Messaging APIs           |
+| Deployment   | Docker · Linux · Nginx · Vercel                        |
+| Development  | Git · GitHub · VS Code · Postman · pnpm                |
 
 ---
 
@@ -222,38 +255,38 @@ I develop business-oriented software that connects people, processes, data, and 
 <div align="center">
 
 ```text
-                     ┌──────────────────────┐
-                     │   BUSINESS PROBLEM   │
-                     └──────────┬───────────┘
-                                │
-                                ▼
-                     ┌──────────────────────┐
-                     │ REQUIREMENTS & DESIGN│
-                     └──────────┬───────────┘
-                                │
-               ┌────────────────┼────────────────┐
-               ▼                ▼                ▼
-        ┌────────────┐   ┌────────────┐   ┌────────────┐
-        │  DATABASE  │   │    APIs    │   │  FRONTEND  │
-        └──────┬─────┘   └──────┬─────┘   └──────┬─────┘
-               │                │                │
-               └────────────────┼────────────────┘
-                                ▼
-                     ┌──────────────────────┐
-                     │    INTEGRATIONS      │
-                     └──────────┬───────────┘
-                                ▼
-                     ┌──────────────────────┐
-                     │     AUTOMATION       │
-                     └──────────┬───────────┘
-                                ▼
-                     ┌──────────────────────┐
-                     │ TESTING & DEPLOYMENT │
-                     └──────────┬───────────┘
-                                ▼
-                     ┌──────────────────────┐
-                     │  CONTINUOUS IMPROVEMENT│
-                     └──────────────────────┘
+                         ┌──────────────────────┐
+                         │   BUSINESS PROBLEM   │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │ REQUIREMENTS & DESIGN│
+                         └──────────┬───────────┘
+                                    │
+                  ┌─────────────────┼─────────────────┐
+                  ▼                 ▼                 ▼
+           ┌────────────┐    ┌────────────┐    ┌────────────┐
+           │  DATABASE  │    │    APIs    │    │  FRONTEND  │
+           └──────┬─────┘    └──────┬─────┘    └──────┬─────┘
+                  │                 │                 │
+                  └─────────────────┼─────────────────┘
+                                    ▼
+                         ┌──────────────────────┐
+                         │    INTEGRATIONS      │
+                         └──────────┬───────────┘
+                                    ▼
+                         ┌──────────────────────┐
+                         │     AUTOMATION       │
+                         └──────────┬───────────┘
+                                    ▼
+                         ┌──────────────────────┐
+                         │ TESTING & DEPLOYMENT │
+                         └──────────┬───────────┘
+                                    ▼
+                         ┌──────────────────────┐
+                         │ CONTINUOUS IMPROVEMENT│
+                         └──────────────────────┘
 ```
 
 </div>
@@ -266,10 +299,12 @@ I develop business-oriented software that connects people, processes, data, and 
 </h2>
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-<h3>01. BGV Platform</h3>
+<h3>01 · BGV Platform</h3>
 
 Business and background-verification focused software.
 
@@ -277,7 +312,7 @@ Business and background-verification focused software.
 
 <hr>
 
-<h3>02. Pharmaceutical System</h3>
+<h3>02 · Pharmaceutical System</h3>
 
 Software designed around pharmaceutical business operations.
 
@@ -285,7 +320,7 @@ Software designed around pharmaceutical business operations.
 
 <hr>
 
-<h3>03. ERP Platform</h3>
+<h3>03 · ERP Platform</h3>
 
 Enterprise resource planning software connecting business workflows.
 
@@ -293,7 +328,7 @@ Enterprise resource planning software connecting business workflows.
 
 <hr>
 
-<h3>04. Job Marketplace</h3>
+<h3>04 · Job Marketplace</h3>
 
 A marketplace connecting candidates and employers.
 
@@ -301,7 +336,7 @@ A marketplace connecting candidates and employers.
 
 <hr>
 
-<h3>05. Jiyarams</h3>
+<h3>05 · Jiyarams</h3>
 
 Business-oriented software for operational workflows.
 
@@ -309,7 +344,7 @@ Business-oriented software for operational workflows.
 
 <hr>
 
-<h3>06. HRMS Core System</h3>
+<h3>06 · HRMS Core System</h3>
 
 Human-resource management platform.
 
@@ -317,16 +352,17 @@ Human-resource management platform.
 
 <hr>
 
-<h3>07. Pharma Retail</h3>
+<h3>07 · Pharma Retail</h3>
 
 Retail-focused pharmaceutical management software.
 
 `Retail` · `Inventory` · `Orders` · `Pharma`
 
 </td>
+
 <td width="50%" valign="top">
 
-<h3>08. Transport & Truck Booking</h3>
+<h3>08 · Transport & Truck Booking</h3>
 
 Transport and truck-booking platform.
 
@@ -334,7 +370,7 @@ Transport and truck-booking platform.
 
 <hr>
 
-<h3>09. Tour & Travel</h3>
+<h3>09 · Tour & Travel</h3>
 
 Travel and tour management platform.
 
@@ -342,7 +378,7 @@ Travel and tour management platform.
 
 <hr>
 
-<h3>10. Streaming Platform</h3>
+<h3>10 · Streaming Platform</h3>
 
 Content and media streaming platform.
 
@@ -350,7 +386,7 @@ Content and media streaming platform.
 
 <hr>
 
-<h3>11. WhatsApp API Platform</h3>
+<h3>11 · WhatsApp API Platform</h3>
 
 API-driven communication platform for application-to-user messaging.
 
@@ -358,7 +394,7 @@ API-driven communication platform for application-to-user messaging.
 
 <hr>
 
-<h3>12. Lead Management Platform</h3>
+<h3>12 · Lead Management Platform</h3>
 
 Advertising lead capture and customer workflow automation.
 
@@ -366,7 +402,7 @@ Advertising lead capture and customer workflow automation.
 
 <hr>
 
-<h3>13. HRMS Platform</h3>
+<h3>13 · HRMS Platform</h3>
 
 Human-resource management software for business operations.
 
@@ -374,14 +410,16 @@ Human-resource management software for business operations.
 
 <hr>
 
-<h3>14. Salon Management</h3>
+<h3>14 · Salon Management</h3>
 
 Salon management software for appointments, customers, staff, and services.
 
 `Appointments` · `Customers` · `Services` · `Staff`
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -397,31 +435,37 @@ Advertising lead integration and customer workflow automation can connect lead c
 
 ```text
 ┌──────────────────────────┐
-│  ADVERTISING PLATFORMS   │
+│   ADVERTISING PLATFORMS  │
 └─────────────┬────────────┘
+              │
               ▼
 ┌──────────────────────────┐
 │       LEAD CAPTURE       │
 └─────────────┬────────────┘
+              │
               ▼
 ┌──────────────────────────┐
 │     LEAD MANAGEMENT      │
 └─────────────┬────────────┘
+              │
               ▼
 ┌──────────────────────────┐
 │   ASSIGNMENT & ROUTING   │
 └─────────────┬────────────┘
+              │
               ▼
 ┌──────────────────────────┐
 │    AUTOMATED REPLIES     │
 └─────────────┬────────────┘
+              │
               ▼
 ┌──────────────────────────┐
 │  FOLLOW-UP & NOTIFICATION│
 └─────────────┬────────────┘
+              │
               ▼
 ┌──────────────────────────┐
-│       CUSTOMER           │
+│        CUSTOMER          │
 └──────────────────────────┘
 ```
 
@@ -439,33 +483,36 @@ I build API-driven systems that connect business applications, databases, commun
 <div align="center">
 
 ```text
-┌───────────────────┐
-│      WEBSITE      │
-└─────────┬─────────┘
-          ▼
-┌───────────────────┐
-│      REST API     │
-└─────────┬─────────┘
-          │
-     ┌────┼───────────┐
-     ▼    ▼           ▼
-   ┌────┐ ┌────────┐ ┌──────────┐
-   │ CRM│ │WhatsApp│ │ DATABASE │
-   └─┬──┘ └───┬────┘ └────┬─────┘
-     └────────┼────────────┘
-              ▼
-     ┌───────────────────┐
-     │   AUTOMATION      │
-     └─────────┬─────────┘
-               ▼
-     ┌───────────────────┐
-     │ NOTIFICATIONS     │
-     └───────────────────┘
+                    ┌───────────────────┐
+                    │      WEBSITE      │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │      REST API     │
+                    └─────────┬─────────┘
+                              │
+              ┌───────────────┼───────────────┐
+              ▼               ▼               ▼
+        ┌──────────┐    ┌──────────┐    ┌──────────┐
+        │   CRM    │    │ WhatsApp │    │ DATABASE │
+        └────┬─────┘    └────┬─────┘    └────┬─────┘
+             │               │               │
+             └───────────────┼───────────────┘
+                             ▼
+                   ┌───────────────────┐
+                   │    AUTOMATION     │
+                   └─────────┬─────────┘
+                             │
+                             ▼
+                   ┌───────────────────┐
+                   │   NOTIFICATIONS   │
+                   └───────────────────┘
 ```
 
 </div>
 
-**Integration areas**
+### Integration Areas
 
 `REST APIs` · `Webhooks` · `WhatsApp` · `CRM` · `Lead APIs` · `Messaging` · `Database APIs` · `Notifications`
 
@@ -479,15 +526,15 @@ I build API-driven systems that connect business applications, databases, commun
 <div align="center">
 
 <a href="https://github.com/MurariJha/Salon-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-App&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32" alt="Salon App repository card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-App&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32" alt="Salon App"/>
 </a>
 
 <a href="https://github.com/MurariJha/Salon-management-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-management-app&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32" alt="Salon Management App repository card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-management-app&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32" alt="Salon Management App"/>
 </a>
 
 <a href="https://github.com/MurariJha/Salon-Manager-Pro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-Manager-Pro&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32" alt="Salon Manager Pro repository card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-Manager-Pro&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32" alt="Salon Manager Pro"/>
 </a>
 
 </div>
@@ -500,34 +547,55 @@ I build API-driven systems that connect business applications, databases, commun
 </h2>
 
 <table>
+
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 <img src="https://img.icons8.com/ios-filled/50/E08A32/settings.png" width="18" alt=""/> Business Automation
 
+<br><br>
+
 <img src="https://img.icons8.com/ios-filled/50/E08A32/cloud.png" width="18" alt=""/> SaaS Architecture
+
+<br><br>
 
 <img src="https://img.icons8.com/ios-filled/50/E08A32/api.png" width="18" alt=""/> REST API Development
 
+<br><br>
+
 <img src="https://img.icons8.com/ios-filled/50/E08A32/database.png" width="18" alt=""/> Database Design
+
+<br><br>
 
 <img src="https://img.icons8.com/ios-filled/50/E08A32/dashboard.png" width="18" alt=""/> ERP / CRM / HRMS
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 <img src="https://img.icons8.com/ios-filled/50/E08A32/connected.png" width="18" alt=""/> Third-party Integrations
 
+<br><br>
+
 <img src="https://img.icons8.com/ios-filled/50/E08A32/speech-bubble.png" width="18" alt=""/> Messaging Platforms
+
+<br><br>
 
 <img src="https://img.icons8.com/ios-filled/50/E08A32/flow-chart.png" width="18" alt=""/> Lead Automation
 
+<br><br>
+
 <img src="https://img.icons8.com/ios-filled/50/E08A32/truck.png" width="18" alt=""/> Booking Systems
+
+<br><br>
 
 <img src="https://img.icons8.com/ios-filled/50/E08A32/code.png" width="18" alt=""/> Clean Architecture
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -539,13 +607,13 @@ I build API-driven systems that connect business applications, databases, commun
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MurariJha&show_icons=true&hide_border=true&bg_color=00000000&title_color=E08A32&icon_color=E08A32&text_color=A1A1AA&include_all_commits=true" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MurariJha&show_icons=true&hide_border=true&bg_color=00000000&title_color=E08A32&icon_color=E08A32&text_color=A1A1AA&include_all_commits=true" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurariJha&layout=compact&hide_border=true&bg_color=00000000&title_color=E08A32&text_color=A1A1AA" alt="Most used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurariJha&layout=compact&hide_border=true&bg_color=00000000&title_color=E08A32&text_color=A1A1AA" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=MurariJha&hide_border=true&background=00000000&ring=E08A32&fire=E08A32&currStreakLabel=E08A32&sideLabels=A1A1AA&dates=777777&currStreakNum=F2F2F2&sideNums=F2F2F2" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=MurariJha&hide_border=true&background=00000000&ring=E08A32&fire=E08A32&currStreakLabel=E08A32&sideLabels=A1A1AA&dates=777777&currStreakNum=F2F2F2&sideNums=F2F2F2" alt="GitHub Streak"/>
 
 </div>
 
@@ -558,7 +626,7 @@ I build API-driven systems that connect business applications, databases, commun
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MurariJha&bg_color=0D0D0D&color=E08A32&line=E08A32&point=F2F2F2&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MurariJha&bg_color=0D0D0D&color=E08A32&line=E08A32&point=F2F2F2&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -572,9 +640,13 @@ I build API-driven systems that connect business applications, databases, commun
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
-  <img src="./dist/github-snake.svg" alt="GitHub contribution snake animation" width="100%">
+
+<source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
+
+<img src="./dist/github-snake.svg" alt="GitHub Contribution Snake Animation" width="100%">
+
 </picture>
 
 </div>
@@ -587,35 +659,67 @@ I build API-driven systems that connect business applications, databases, commun
 </h2>
 
 <table>
+
 <tr>
-<td align="center" width="33%">
+
+<td align="center" width="25%">
 
 <img src="https://img.icons8.com/ios-filled/50/E08A32/building.png" width="32" alt=""/>
 
-**Building**
+<br>
+
+<b>BUILDING</b>
+
+<br>
 
 Business Software
 
 </td>
-<td align="center" width="33%">
+
+<td align="center" width="25%">
 
 <img src="https://img.icons8.com/ios-filled/50/E08A32/server.png" width="32" alt=""/>
 
-**Improving**
+<br>
+
+<b>IMPROVING</b>
+
+<br>
 
 Software Architecture
 
 </td>
-<td align="center" width="33%">
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/ios-filled/50/E08A32/api.png" width="32" alt=""/>
+
+<br>
+
+<b>WORKING</b>
+
+<br>
+
+APIs & Integrations
+
+</td>
+
+<td align="center" width="25%">
 
 <img src="https://img.icons8.com/ios-filled/50/E08A32/connected.png" width="32" alt=""/>
 
-**Exploring**
+<br>
+
+<b>EXPLORING</b>
+
+<br>
 
 Automation & SaaS
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -627,15 +731,33 @@ Automation & SaaS
 
 <div align="center">
 
-<a href="https://github.com/MurariJha">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=E08A32" alt="GitHub profile"/>
+<a href="https://github.com/MurariJha" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-E08A32?style=for-the-badge&logo=github&logoColor=111111" alt="GitHub"/>
 </a>
 
-<a href="https://github.com/MurariJha?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Projects-111111?style=for-the-badge&logo=github&logoColor=E08A32" alt="Explore repositories"/>
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-E08A32?style=for-the-badge&logo=linkedin&logoColor=111111" alt="LinkedIn"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-E08A32?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-E08A32?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email"/>
 </a>
 
 <br><br>
+
+<a href="https://github.com/MurariJha?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-111111?style=for-the-badge&logo=github&logoColor=E08A32" alt="Explore Projects"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 ```text
 $ git status
@@ -644,13 +766,18 @@ On branch main
 
 Building useful things...
 Solving business problems...
+Designing scalable systems...
+Connecting APIs...
+Automating workflows...
 Improving every system...
 ```
 
-### KEEP BUILDING. KEEP LEARNING. KEEP IMPROVING.
-
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E08A32&height=120&section=footer&animation=fadeIn" width="100%" alt="Orange animated footer"/>
+<b>KEEP BUILDING. KEEP LEARNING. KEEP IMPROVING.</b>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E08A32&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated Footer"/>
 
 </div>
