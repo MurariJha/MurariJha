@@ -1,398 +1,384 @@
+
 <div align="center">
 
-<!-- HERO -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=220&section=header&text=MURARI%20JHA&fontSize=58&fontColor=F2F2F2&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ARCHITECT%20%E2%80%A2%20AUTOMATION%20BUILDER&descAlignY=65&descSize=15&descColor=E08A32&animation=fadeIn" width="100%"/>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=220&section=header&text=MURARI%20JHA&fontSize=58&fontColor=F2F2F2&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20BUILDER%20%7C%20AUTOMATION&descAlignY=62&descSize=14&descColor=E08A32&animation=fadeIn" width="100%" alt="Murari Jha Profile Header"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=E08A32&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+Business+Software;ERP+%7C+CRM+%7C+HRMS+%7C+SaaS;APIs+%7C+Automation+%7C+Integrations;Turning+Business+Problems+Into+Software;Designing+Scalable+Digital+Systems" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=E08A32&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+Business+Software;ERP+%7C+CRM+%7C+HRMS+%7C+SaaS;APIs+%7C+Automation+%7C+Integrations;Turning+Business+Problems+Into+Software;Designing+Scalable+Digital+Systems" alt="Animated developer introduction"/>
 
 <br><br>
 
 <a href="https://github.com/MurariJha">
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F2F2F2" alt="GitHub"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=MurariJha&style=for-the-badge&color=E08A32&label=PROFILE+VIEWS"/>
+<a href="https://github.com/MurariJha?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-111111?style=for-the-badge&logo=github&logoColor=E08A32" alt="Repositories"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=MurariJha&style=for-the-badge&color=E08A32&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br><br>
 
-> **I build practical software that helps businesses operate, automate and scale.**
+**Building practical, scalable software for real-world business problems.**
 
 </div>
 
 ---
 
-# `whoami`
-
-<div align="center">
-
-### 👋 Hi, I'm Murari Jha
-
-**Full Stack Developer · Business Software Builder · Automation Engineer**
-
-</div>
-
-I work across the complete software lifecycle — from understanding a business problem to designing the database, building APIs, developing the interface, integrating third-party services and deploying the final product.
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/user.png" width="24" alt=""/>
+&nbsp; WHO AM I
+</h2>
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│                     BUSINESS PROBLEM                        │
-│                            │                                │
-│                            ▼                                │
-│                      SYSTEM DESIGN                           │
-│                            │                                │
-│             ┌──────────────┼──────────────┐                │
-│             ▼              ▼              ▼                │
-│          DATABASE         APIs          FRONTEND            │
-│             │              │              │                │
-│             └──────────────┼──────────────┘                │
-│                            ▼                                │
-│                    INTEGRATIONS                              │
-│                            │                                │
-│                            ▼                                │
-│                       AUTOMATION                             │
-│                            │                                │
-│                            ▼                                │
-│                       DEPLOYMENT                             │
-│                            │                                │
-│                            ▼                                │
-│                    BUSINESS SOFTWARE                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+Name        : Murari Jha
+Role        : Full Stack Developer
+Focus       : Business Software & Automation
+Speciality  : ERP / CRM / HRMS / SaaS
+Engineering : Frontend / Backend / Database / APIs
+Interests   : Integrations / Architecture / Automation
 ```
+
+I develop business-oriented software that connects people, processes, data, and systems. My work covers the software lifecycle, from understanding requirements and designing databases to building user interfaces, developing APIs, integrating external services, and deploying applications.
 
 ---
 
-# ⚡ What I Build
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/maintenance.png" width="24" alt=""/>
+&nbsp; WHAT I BUILD
+</h2>
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## 🏢 Enterprise Software
+<h3>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/building.png" width="20" alt=""/>
+&nbsp; Enterprise Software
+</h3>
 
-* ERP Systems
-* HRMS Platforms
-* Business Management
-* Internal Tools
-* Operations Dashboards
-* Reporting Systems
-* Role-Based Applications
+- ERP Systems
+- HRMS Platforms
+- Business Management
+- Internal Tools
+- Operations Dashboards
+- Reporting Systems
+- Role-Based Applications
 
 </td>
-
 <td width="50%" valign="top">
 
-## ☁️ SaaS & Platforms
+<h3>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/cloud.png" width="20" alt=""/>
+&nbsp; SaaS & Platforms
+</h3>
 
-* Multi-user SaaS
-* Subscription Platforms
-* Workflow Systems
-* Admin Panels
-* API-driven Platforms
-* Multi-role Applications
-* Business Portals
+- Multi-user Applications
+- SaaS Platforms
+- Workflow Systems
+- Admin Panels
+- API-driven Platforms
+- Multi-role Applications
+- Business Portals
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-## 🤝 CRM & Automation
+<h3>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/conference.png" width="20" alt=""/>
+&nbsp; CRM & Automation
+</h3>
 
-* Lead Management
-* Lead Assignment
-* Ads Lead Integration
-* Automated Replies
-* Customer Follow-ups
-* Sales Workflows
-* Notifications
+- Lead Management
+- Lead Assignment
+- Advertising Lead Integration
+- Automated Replies
+- Customer Follow-ups
+- Sales Workflows
+- Notifications
 
 </td>
-
 <td width="50%" valign="top">
 
-## 📅 Booking Systems
+<h3>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/calendar.png" width="20" alt=""/>
+&nbsp; Booking Systems
+</h3>
 
-* Transport Booking
-* Truck Booking
-* Tour & Travel
-* Appointment Systems
-* Reservation Platforms
-* Driver Management
-* Customer Management
+- Transport Booking
+- Truck Booking
+- Tour & Travel
+- Appointment Systems
+- Reservation Platforms
+- Driver Management
+- Customer Management
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-## 💊 Pharma & Healthcare
+<h3>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/pill.png" width="20" alt=""/>
+&nbsp; Pharma & Healthcare
+</h3>
 
-* Pharmaceutical Systems
-* Pharma Retail
-* Inventory Management
-* Order Management
-* Product Management
-* Business Operations
-* Reports
+- Pharmaceutical Systems
+- Pharma Retail
+- Inventory Management
+- Order Management
+- Product Management
+- Business Operations
+- Reports
 
 </td>
-
 <td width="50%" valign="top">
 
-## 💬 Communication
+<h3>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/speech-bubble.png" width="20" alt=""/>
+&nbsp; Communication
+</h3>
 
-* WhatsApp API
-* Messaging Platforms
-* Webhooks
-* Notifications
-* Third-party APIs
-* Automation
-* Customer Communication
+- WhatsApp API
+- Messaging Platforms
+- Webhooks
+- Notifications
+- Third-party APIs
+- Customer Communication
+- Process Automation
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🧠 Technology Universe
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/code.png" width="24" alt=""/>
+&nbsp; TECHNOLOGY STACK
+</h2>
 
 <div align="center">
 
-### Frontend
+<h3>Frontend Development</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind&perline=8"/>
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind&theme=dark&perline=8" alt="Frontend technologies"/>
 
 <br><br>
 
-### Databases
+<h3>Backend Development</h3>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=8"/>
-
-<br><br>
-
-### DevOps & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vercel&perline=8"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel&theme=dark&perline=8" alt="Backend technologies"/>
 
 <br><br>
 
-### Tools
+<h3>Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,npm,pnpm&perline=8"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark&perline=8" alt="Database technologies"/>
+
+<br><br>
+
+<h3>DevOps & Infrastructure</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vercel&theme=dark&perline=8" alt="DevOps technologies"/>
+
+<br><br>
+
+<h3>Developer Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,pnpm&theme=dark&perline=8" alt="Developer tools"/>
 
 </div>
 
 ---
 
-# 🧩 Core Engineering Stack
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/server.png" width="24" alt=""/>
+&nbsp; CORE ENGINEERING STACK
+</h2>
 
-| Layer           | Technologies                                           |
-| --------------- | ------------------------------------------------------ |
-| 🎨 Frontend     | React · Next.js · JavaScript · TypeScript · HTML · CSS |
-| ⚙️ Backend      | Node.js · Express · NestJS · PHP · Laravel             |
-| 🗄️ Database    | PostgreSQL · MySQL · MongoDB · Redis                   |
-| 🔐 Architecture | REST APIs · Authentication · RBAC · MVC                |
-| 🔗 Integration  | Webhooks · Third-party APIs · Messaging APIs           |
-| 🚀 Deployment   | Docker · Linux · Nginx · Vercel                        |
-| 🛠️ Development | Git · GitHub · VS Code · Postman · pnpm                |
+| Layer | Technologies |
+|---|---|
+| Frontend | React, Next.js, JavaScript, TypeScript, HTML, CSS |
+| Backend | Node.js, Express, NestJS, PHP, Laravel |
+| Database | PostgreSQL, MySQL, MongoDB, Redis |
+| Architecture | REST APIs, Authentication, RBAC, MVC |
+| Integration | Webhooks, Third-party APIs, Messaging APIs |
+| Deployment | Docker, Linux, Nginx, Vercel |
+| Development | Git, GitHub, VS Code, Postman, pnpm |
 
 ---
 
-# 🏗️ How I Approach Software
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/workflow.png" width="24" alt=""/>
+&nbsp; SOFTWARE DEVELOPMENT WORKFLOW
+</h2>
+
+<div align="center">
 
 ```text
-                         ┌───────────────┐
-                         │    PROBLEM    │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │   DISCOVERY   │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    DESIGN     │
-                         └───────┬───────┘
-                                 │
-              ┌──────────────────┼──────────────────┐
-              ▼                  ▼                  ▼
-         ┌─────────┐       ┌─────────┐       ┌──────────┐
-         │DATABASE │       │   API   │       │   UI/UX  │
-         └────┬────┘       └────┬────┘       └────┬─────┘
-              │                 │                  │
-              └─────────────────┼──────────────────┘
+                     ┌──────────────────────┐
+                     │   BUSINESS PROBLEM   │
+                     └──────────┬───────────┘
+                                │
                                 ▼
-                       ┌────────────────┐
-                       │  INTEGRATION   │
-                       └───────┬────────┘
-                               │
-                               ▼
-                       ┌────────────────┐
-                       │   AUTOMATION   │
-                       └───────┬────────┘
-                               │
-                               ▼
-                       ┌────────────────┐
-                       │    TESTING     │
-                       └───────┬────────┘
-                               │
-                               ▼
-                       ┌────────────────┐
-                       │   DEPLOYMENT   │
-                       └───────┬────────┘
-                               │
-                               ▼
-                       ┌────────────────┐
-                       │    IMPROVEMENT │
-                       └────────────────┘
+                     ┌──────────────────────┐
+                     │ REQUIREMENTS & DESIGN│
+                     └──────────┬───────────┘
+                                │
+               ┌────────────────┼────────────────┐
+               ▼                ▼                ▼
+        ┌────────────┐   ┌────────────┐   ┌────────────┐
+        │  DATABASE  │   │    APIs    │   │  FRONTEND  │
+        └──────┬─────┘   └──────┬─────┘   └──────┬─────┘
+               │                │                │
+               └────────────────┼────────────────┘
+                                ▼
+                     ┌──────────────────────┐
+                     │    INTEGRATIONS      │
+                     └──────────┬───────────┘
+                                ▼
+                     ┌──────────────────────┐
+                     │     AUTOMATION       │
+                     └──────────┬───────────┘
+                                ▼
+                     ┌──────────────────────┐
+                     │ TESTING & DEPLOYMENT │
+                     └──────────┬───────────┘
+                                ▼
+                     ┌──────────────────────┐
+                     │  CONTINUOUS IMPROVEMENT│
+                     └──────────────────────┘
 ```
+
+</div>
 
 ---
 
-# 🚀 Selected Work
-
-<div align="center">
-
-### 14+ Business & Software Projects
-
-</div>
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/folder-invoices.png" width="24" alt=""/>
+&nbsp; SELECTED PROJECTS
+</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01` BGV Platform
+<h3>01. BGV Platform</h3>
 
 Business and background-verification focused software.
 
-`Business Workflows` `Management` `Automation`
+`Business Workflows` · `Management` · `Automation`
 
----
+<hr>
 
-### `02` Pharmaceutical System
+<h3>02. Pharmaceutical System</h3>
 
 Software designed around pharmaceutical business operations.
 
-`Pharma` `Inventory` `Orders` `Management`
+`Pharma` · `Inventory` · `Orders` · `Management`
 
----
+<hr>
 
-### `03` ERP Platform
+<h3>03. ERP Platform</h3>
 
 Enterprise resource planning software connecting business workflows.
 
-`ERP` `Operations` `Reports` `Management`
+`ERP` · `Operations` · `Reports` · `Management`
 
----
+<hr>
 
-### `04` Job Marketplace
+<h3>04. Job Marketplace</h3>
 
-Marketplace connecting candidates and employers.
+A marketplace connecting candidates and employers.
 
-`Marketplace` `Profiles` `Search` `Applications`
+`Marketplace` · `Profiles` · `Search` · `Applications`
 
----
+<hr>
 
-### `05` Jiyarams
+<h3>05. Jiyarams</h3>
 
 Business-oriented software for operational workflows.
 
-`Business Software` `Operations` `Management`
+`Business Software` · `Operations` · `Management`
 
----
+<hr>
 
-### `06` HRMS Core
+<h3>06. HRMS Core System</h3>
 
 Human-resource management platform.
 
-`HRMS` `Employees` `Attendance` `Management`
+`HRMS` · `Employees` · `Attendance` · `Management`
 
----
+<hr>
 
-### `07` Pharma Retail
+<h3>07. Pharma Retail</h3>
 
 Retail-focused pharmaceutical management software.
 
-`Retail` `Inventory` `Orders` `Pharma`
+`Retail` · `Inventory` · `Orders` · `Pharma`
 
 </td>
-
 <td width="50%" valign="top">
 
-### `08` Transport / Truck Booking
+<h3>08. Transport & Truck Booking</h3>
 
 Transport and truck-booking platform.
 
-`Transport` `Booking` `Drivers` `Operations`
+`Transport` · `Booking` · `Drivers` · `Operations`
 
----
+<hr>
 
-### `09` Tour & Travel
+<h3>09. Tour & Travel</h3>
 
 Travel and tour management platform.
 
-`Travel` `Booking` `Customers` `Operations`
+`Travel` · `Booking` · `Customers` · `Operations`
 
----
+<hr>
 
-### `10` Streaming Platform
+<h3>10. Streaming Platform</h3>
 
 Content and media streaming platform.
 
-`Streaming` `Media` `Users` `Content`
+`Streaming` · `Media` · `Users` · `Content`
 
----
+<hr>
 
-### `11` WhatsApp API Platform
+<h3>11. WhatsApp API Platform</h3>
 
 API-driven communication platform for application-to-user messaging.
 
-`WhatsApp` `APIs` `Messaging` `Automation`
+`WhatsApp` · `APIs` · `Messaging` · `Automation`
 
----
+<hr>
 
-### `12` Lead Management
+<h3>12. Lead Management Platform</h3>
 
 Advertising lead capture and customer workflow automation.
 
-`Ads` `Leads` `Automation` `Messaging`
+`Ads Integration` · `Lead Management` · `Automation`
 
----
+<hr>
 
-### `13` HRMS
+<h3>13. HRMS Platform</h3>
 
-HR platform for employees, attendance, payroll and reports.
+Human-resource management software for business operations.
 
-`HR` `Employees` `Attendance` `Payroll`
+`HR` · `Employees` · `Attendance` · `Payroll` · `Reports`
 
----
+<hr>
 
-### `14` Salon Management
+<h3>14. Salon Management</h3>
 
-Salon platform for appointments, customers, staff and services.
+Salon management software for appointments, customers, staff, and services.
 
-`Appointments` `Customers` `Services` `Staff`
+`Appointments` · `Customers` · `Services` · `Staff`
 
 </td>
 </tr>
@@ -400,239 +386,271 @@ Salon platform for appointments, customers, staff and services.
 
 ---
 
-# 🔄 Lead Automation Architecture
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/flow-chart.png" width="24" alt=""/>
+&nbsp; LEAD MANAGEMENT AUTOMATION
+</h2>
 
-One of the systems I work with is an automated lead-management flow connecting advertising platforms with customer communication.
+Advertising lead integration and customer workflow automation can connect lead capture, assignment, communication, and follow-up in one process.
 
 <div align="center">
 
 ```text
-           ┌─────────────────────┐
-           │  Advertising        │
-           │  Platforms          │
-           └──────────┬──────────┘
-                      │
-                      ▼
-             ┌────────────────┐
-             │   Lead Capture │
-             └───────┬────────┘
-                     │
-                     ▼
-             ┌────────────────┐
-             │ Lead Management│
-             └───────┬────────┘
-                     │
-                     ▼
-             ┌────────────────┐
-             │    Assignment  │
-             └───────┬────────┘
-                     │
-                     ▼
-             ┌────────────────┐
-             │ Automated Reply│
-             └───────┬────────┘
-                     │
-                     ▼
-             ┌────────────────┐
-             │   Follow-up    │
-             └───────┬────────┘
-                     │
-                     ▼
-             ┌────────────────┐
-             │    Customer    │
-             └────────────────┘
+┌──────────────────────────┐
+│  ADVERTISING PLATFORMS   │
+└─────────────┬────────────┘
+              ▼
+┌──────────────────────────┐
+│       LEAD CAPTURE       │
+└─────────────┬────────────┘
+              ▼
+┌──────────────────────────┐
+│     LEAD MANAGEMENT      │
+└─────────────┬────────────┘
+              ▼
+┌──────────────────────────┐
+│   ASSIGNMENT & ROUTING   │
+└─────────────┬────────────┘
+              ▼
+┌──────────────────────────┐
+│    AUTOMATED REPLIES     │
+└─────────────┬────────────┘
+              ▼
+┌──────────────────────────┐
+│  FOLLOW-UP & NOTIFICATION│
+└─────────────┬────────────┘
+              ▼
+┌──────────────────────────┐
+│       CUSTOMER           │
+└──────────────────────────┘
 ```
 
 </div>
 
 ---
 
-# 💬 API & Automation
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/api.png" width="24" alt=""/>
+&nbsp; API INTEGRATION & AUTOMATION
+</h2>
 
-I enjoy connecting systems that normally operate separately.
+I build API-driven systems that connect business applications, databases, communication platforms, and external services.
+
+<div align="center">
 
 ```text
-┌──────────────┐
-│   Website    │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│      API     │
-└──────┬───────┘
-       │
- ┌─────┼─────────────┐
- ▼     ▼             ▼
-CRM  WhatsApp      Database
- │      │             │
- └──────┼─────────────┘
-        ▼
- ┌──────────────┐
- │   Automation │
- └──────┬───────┘
-        ▼
- ┌──────────────┐
- │ Notification │
- └──────────────┘
+┌───────────────────┐
+│      WEBSITE      │
+└─────────┬─────────┘
+          ▼
+┌───────────────────┐
+│      REST API     │
+└─────────┬─────────┘
+          │
+     ┌────┼───────────┐
+     ▼    ▼           ▼
+   ┌────┐ ┌────────┐ ┌──────────┐
+   │ CRM│ │WhatsApp│ │ DATABASE │
+   └─┬──┘ └───┬────┘ └────┬─────┘
+     └────────┼────────────┘
+              ▼
+     ┌───────────────────┐
+     │   AUTOMATION      │
+     └─────────┬─────────┘
+               ▼
+     ┌───────────────────┐
+     │ NOTIFICATIONS     │
+     └───────────────────┘
 ```
 
-### Typical integrations
+</div>
 
-`REST APIs` · `Webhooks` · `WhatsApp` · `CRM` · `Lead APIs` · `Payment APIs` · `Messaging` · `Database APIs`
+**Integration areas**
+
+`REST APIs` · `Webhooks` · `WhatsApp` · `CRM` · `Lead APIs` · `Messaging` · `Database APIs` · `Notifications`
 
 ---
 
-# 💻 Featured GitHub Projects
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/github.png" width="24" alt=""/>
+&nbsp; FEATURED GITHUB PROJECTS
+</h2>
 
 <div align="center">
 
 <a href="https://github.com/MurariJha/Salon-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-App&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-App&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32" alt="Salon App repository card"/>
 </a>
 
 <a href="https://github.com/MurariJha/Salon-management-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-management-app&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-management-app&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32" alt="Salon Management App repository card"/>
 </a>
 
 <a href="https://github.com/MurariJha/Salon-Manager-Pro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-Manager-Pro&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MurariJha&repo=Salon-Manager-Pro&theme=transparent&hide_border=true&title_color=E08A32&text_color=A1A1AA&icon_color=E08A32" alt="Salon Manager Pro repository card"/>
 </a>
 
 </div>
 
 ---
 
-# 🧰 Engineering Interests
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/brain.png" width="24" alt=""/>
+&nbsp; ENGINEERING INTERESTS
+</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://img.icons8.com/ios-filled/50/E08A32/settings.png" width="18" alt=""/> Business Automation
+
+<img src="https://img.icons8.com/ios-filled/50/E08A32/cloud.png" width="18" alt=""/> SaaS Architecture
+
+<img src="https://img.icons8.com/ios-filled/50/E08A32/api.png" width="18" alt=""/> REST API Development
+
+<img src="https://img.icons8.com/ios-filled/50/E08A32/database.png" width="18" alt=""/> Database Design
+
+<img src="https://img.icons8.com/ios-filled/50/E08A32/dashboard.png" width="18" alt=""/> ERP / CRM / HRMS
+
+</td>
+<td width="50%">
+
+<img src="https://img.icons8.com/ios-filled/50/E08A32/connected.png" width="18" alt=""/> Third-party Integrations
+
+<img src="https://img.icons8.com/ios-filled/50/E08A32/speech-bubble.png" width="18" alt=""/> Messaging Platforms
+
+<img src="https://img.icons8.com/ios-filled/50/E08A32/flow-chart.png" width="18" alt=""/> Lead Automation
+
+<img src="https://img.icons8.com/ios-filled/50/E08A32/truck.png" width="18" alt=""/> Booking Systems
+
+<img src="https://img.icons8.com/ios-filled/50/E08A32/code.png" width="18" alt=""/> Clean Architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/combo-chart.png" width="24" alt=""/>
+&nbsp; GITHUB STATISTICS
+</h2>
 
 <div align="center">
 
-|                         |                             |
-| ----------------------- | --------------------------- |
-| 🏢 Business Automation  | ☁️ SaaS Architecture        |
-| 🔌 REST API Development | 🗄️ Database Design         |
-| 📊 ERP / CRM / HRMS     | 🔗 Third-party Integrations |
-| 💬 Messaging Platforms  | 🤖 Lead Automation          |
-| 🚚 Booking Systems      | 🧱 Clean Architecture       |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MurariJha&show_icons=true&hide_border=true&bg_color=00000000&title_color=E08A32&icon_color=E08A32&text_color=A1A1AA&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurariJha&layout=compact&hide_border=true&bg_color=00000000&title_color=E08A32&text_color=A1A1AA" alt="Most used languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=MurariJha&hide_border=true&background=00000000&ring=E08A32&fire=E08A32&currStreakLabel=E08A32&sideLabels=A1A1AA&dates=777777&currStreakNum=F2F2F2&sideNums=F2F2F2" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Dashboard
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/activity-history.png" width="24" alt=""/>
+&nbsp; CONTRIBUTION ACTIVITY
+</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MurariJha&show_icons=true&hide_border=true&bg_color=00000000&title_color=E08A32&icon_color=E08A32&text_color=A1A1AA&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurariJha&layout=compact&hide_border=true&bg_color=00000000&title_color=E08A32&text_color=A1A1AA"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MurariJha&hide_border=true&background=00000000&ring=E08A32&fire=E08A32&currStreakLabel=E08A32&sideLabels=A1A1AA&dates=777777&currStreakNum=F2F2F2&sideNums=F2F2F2" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MurariJha&bg_color=0D0D0D&color=E08A32&line=E08A32&point=F2F2F2&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/code-file.png" width="24" alt=""/>
+&nbsp; CONTRIBUTION SNAKE
+</h2>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
-  <img src="./dist/github-snake.svg" alt="GitHub contribution activity">
+  <img src="./dist/github-snake.svg" alt="GitHub contribution snake animation" width="100%">
 </picture>
 
 </div>
 
 ---
 
-# 📈 Development Mindset
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/rocket.png" width="24" alt=""/>
+&nbsp; CURRENT FOCUS
+</h2>
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 
-```text
-        BUILD
-          │
-          ▼
-      ┌───────┐
-      │ SIMPLE│
-      └───┬───┘
-          │
-          ▼
-       SCALE
-          │
-          ▼
-      AUTOMATE
-          │
-          ▼
-       IMPROVE
-          │
-          ▼
-        REPEAT
-```
+<img src="https://img.icons8.com/ios-filled/50/E08A32/building.png" width="32" alt=""/>
 
-</div>
+**Building**
 
----
+Business Software
 
-# 🔥 Currently
+</td>
+<td align="center" width="33%">
 
-<div align="center">
+<img src="https://img.icons8.com/ios-filled/50/E08A32/server.png" width="32" alt=""/>
 
-| Focus        | Direction             |
-| ------------ | --------------------- |
-| 🏗️ Building | Business Software     |
-| 🧠 Learning  | Scalable Architecture |
-| 🔌 Working   | APIs & Integrations   |
-| 🤖 Exploring | Automation & SaaS     |
-| 🧹 Improving | Clean Architecture    |
-| 📊 Designing | Data-driven Systems   |
+**Improving**
 
-</div>
+Software Architecture
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/ios-filled/50/E08A32/connected.png" width="32" alt=""/>
+
+**Exploring**
+
+Automation & SaaS
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌐 Let's Connect
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/E08A32/link.png" width="24" alt=""/>
+&nbsp; LET'S CONNECT
+</h2>
 
 <div align="center">
 
 <a href="https://github.com/MurariJha">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=E08A32" alt="GitHub profile"/>
 </a>
 
-<a href="https://github.com/MurariJha">
-<img src="https://img.shields.io/badge/Projects-E08A32?style=for-the-badge&logo=github&logoColor=111111"/>
+<a href="https://github.com/MurariJha?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Projects-111111?style=for-the-badge&logo=github&logoColor=E08A32" alt="Explore repositories"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ```text
 $ git status
 
 On branch main
 
-✓ building useful things
-✓ solving business problems
-✓ learning continuously
-✓ improving every system
-
-Everything is a work in progress.
+Building useful things...
+Solving business problems...
+Improving every system...
 ```
 
-### **Keep Building. Keep Learning. Keep Improving.**
+### KEEP BUILDING. KEEP LEARNING. KEEP IMPROVING.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E08A32&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E08A32&height=120&section=footer&animation=fadeIn" width="100%" alt="Orange animated footer"/>
 
 </div>
