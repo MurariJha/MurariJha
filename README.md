@@ -1,36 +1,43 @@
 <div align="center">
 
-# Murari Jha
+# MURARI JHA
 
-### Full Stack Developer
+### Full Stack Developer · Software Engineer
 
-Building practical web applications with clean code and simple interfaces.
+Building practical software for real-world business problems.
 
 <br>
 
-[ GitHub ](https://github.com/MurariJha)
+<a href="https://github.com/MurariJha">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=D97706&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Business+Software;APIs+%7C+ERP+%7C+HRMS+%7C+CRM;Turning+Ideas+Into+Working+Products" />
 
 </div>
 
 ---
 
-## About
-
-I'm a developer interested in building useful web applications,
-learning new technologies, and improving the way I write and structure code.
-
-I enjoy working on projects where I can turn an idea into something
-people can actually use.
-
----
-
-## What I work with
+## `$ whoami`
 
 ```text
-Frontend       React · JavaScript · TypeScript · HTML · CSS
+Murari Jha
 
-Backend        Node.js · Express
+Full Stack Developer
 
-Database       MongoDB · Postgresql
+I build software around real business workflows —
+from internal management systems to customer-facing
+platforms, APIs, automation systems and SaaS products.
 
-Tools          Git · GitHub · VS Code
+My focus is on writing maintainable software,
+building useful products and solving practical problems.
