@@ -4,24 +4,24 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=E08A32&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Business+Software;ERP+%7C+CRM+%7C+HRMS+%7C+SaaS;APIs+%7C+Automation+%7C+Integrations;Turning+Business+Problems+Into+Software;Designing+Scalable+Digital+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=E08A32&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Builder;ERP+%7C+CRM+%7C+HRMS+%7C+SaaS;APIs+%7C+Automation+%7C+Integrations;Turning+Business+Problems+Into+Software;Building+Scalable+Digital+Systems" alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://github.com/MurariJha">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-MurariJha-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=E08A32" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=E08A32" alt="LinkedIn"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=E08A32" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=E08A32" alt="Portfolio"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=E08A32" alt="Email"/>
+<a href="mailto:murari.jhaofficial@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=E08A32" alt="Email"/>
 </a>
 
 <br><br>
@@ -108,11 +108,11 @@ Business-specific platforms designed around real workflows.
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark&perline=8" alt="Database Technologies"/>
 
-### DevOps & Infrastructure
+### DevOps
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vercel&theme=dark&perline=8" alt="DevOps Technologies"/>
 
-### Development Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,postman,npm,pnpm&theme=dark&perline=8" alt="Development Tools"/>
 
@@ -260,23 +260,21 @@ Salon booking, POS, inventory, staff and customer management.
 
 ## <img src="https://img.icons8.com/ios-filled/50/E08A32/github.png" width="24"/> Featured GitHub Projects
 
-</div>
-
-<p align="center">
+<br><br>
 
 <a href="https://github.com/MurariJha/Salon-App">
-<img src="./profile/pin-salon-app.svg" width="31%" alt="Salon App"/>
+<img src="https://raw.githubusercontent.com/MurariJha/MurariJha/main/profile/pin-salon-app.svg" width="31%" alt="Salon App"/>
 </a>
 
 <a href="https://github.com/MurariJha/Salon-management-app">
-<img src="./profile/pin-salon-management.svg" width="31%" alt="Salon Management App"/>
+<img src="https://raw.githubusercontent.com/MurariJha/MurariJha/main/profile/pin-salon-management.svg" width="31%" alt="Salon Management App"/>
 </a>
 
 <a href="https://github.com/MurariJha/Salon-Manager-Pro">
-<img src="./profile/pin-salon-manager-pro.svg" width="31%" alt="Salon Manager Pro"/>
+<img src="https://raw.githubusercontent.com/MurariJha/MurariJha/main/profile/pin-salon-manager-pro.svg" width="31%" alt="Salon Manager Pro"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -288,9 +286,9 @@ Salon booking, POS, inventory, staff and customer management.
 
 <p align="center">
 
-<img src="./profile/stats.svg" width="49%" alt="Murari Jha GitHub Statistics"/>
+<img src="https://raw.githubusercontent.com/MurariJha/MurariJha/main/profile/stats.svg" width="49%" alt="Murari Jha GitHub Statistics"/>
 
-<img src="./profile/top-langs.svg" width="49%" alt="Murari Jha Most Used Languages"/>
+<img src="https://raw.githubusercontent.com/MurariJha/MurariJha/main/profile/top-langs.svg" width="49%" alt="Murari Jha Most Used Languages"/>
 
 </p>
 
@@ -298,9 +296,9 @@ Salon booking, POS, inventory, staff and customer management.
 
 <p align="center">
 
-<img src="./profile/stats-summary.svg" width="49%" alt="GitHub Statistics Summary"/>
+<img src="https://raw.githubusercontent.com/MurariJha/MurariJha/main/profile/stats-summary.svg" width="49%" alt="GitHub Development Statistics"/>
 
-<img src="./profile/commit-summary.svg" width="49%" alt="GitHub Commit Summary"/>
+<img src="https://raw.githubusercontent.com/MurariJha/MurariJha/main/profile/commit-summary.svg" width="49%" alt="GitHub Commit Statistics"/>
 
 </p>
 
@@ -314,7 +312,7 @@ Salon booking, POS, inventory, staff and customer management.
 
 <p align="center">
 
-<img src="./profile/contribution-activity.svg" width="100%" alt="Murari Jha Contribution Activity"/>
+<img src="https://raw.githubusercontent.com/MurariJha/MurariJha/main/profile/contribution-activity.svg" width="100%" alt="Murari Jha GitHub Contribution Activity"/>
 
 </p>
 
@@ -322,21 +320,27 @@ Salon booking, POS, inventory, staff and customer management.
 
 <div align="center">
 
-## <img src="https://img.icons8.com/ios-filled/50/E08A32/calendar.png" width="24"/> Development Overview
+## <img src="https://img.icons8.com/ios-filled/50/E08A32/calendar.png" width="24"/> Contribution Overview
 
 </div>
 
 <p align="center">
 
-<img src="./profile/profile-details.svg" width="100%" alt="GitHub Profile Details"/>
+<img src="https://raw.githubusercontent.com/MurariJha/MurariJha/main/profile/contribution-overview.svg" width="100%" alt="Murari Jha Contribution Overview"/>
 
 </p>
 
+---
+
+<div align="center">
+
+## <img src="https://img.icons8.com/ios-filled/50/E08A32/fire.png" width="24"/> GitHub Streak
+
+</div>
+
 <p align="center">
 
-<img src="./profile/productive-time.svg" width="49%" alt="Productive Coding Time"/>
-
-<img src="./profile/most-commit-language.svg" width="49%" alt="Most Commit Language"/>
+<img src="https://raw.githubusercontent.com/MurariJha/MurariJha/main/profile/streak.svg" width="75%" alt="Murari Jha GitHub Contribution Streak"/>
 
 </p>
 
@@ -349,9 +353,11 @@ Salon booking, POS, inventory, staff and customer management.
 </div>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
-<img src="./dist/github-snake.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MurariJha/MurariJha/main/dist/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MurariJha/MurariJha/main/dist/github-snake.svg">
+
+<img src="https://raw.githubusercontent.com/MurariJha/MurariJha/main/dist/github-snake.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
+
 </picture>
 
 ---
